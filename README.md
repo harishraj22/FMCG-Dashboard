@@ -20,8 +20,8 @@ The source Dashboard workbook was cleaned in Power Query and modeled in Power BI
 ## Files
 
 - `Dasboard.pbix` - Power BI Desktop report and data model.
-- `assets/Dashboard.png` - report screenshot.
-- `assets/shop-background.png` - subtle report canvas background image.
+- `Dashboard.png` - report screenshot.
+- `shop-background.png` - subtle report canvas background image.
 
 ## Open the report
 
