@@ -2,7 +2,6 @@
 
 An interactive, single-page Power BI report for exploring sales performance across products, categories, regions, and months.
 
-![Dashboard screenshot](assets/Dashboard.png)
 
 ## What the report shows
 
@@ -28,6 +27,3 @@ The source assessment workbook was cleaned in Power Query and modeled in Power B
 
 Download `Assessment.pbix` and open it in Power BI Desktop. Use the month, category, region, chart metric, and chart axis controls to explore the report.
 
-## Notes
-
-The PBIX is an imported Power BI file and may contain a copy of the source data. Before making this repository public, confirm that the assessment dataset and report contents are cleared for public sharing. Do not upload credentials or private source files.
