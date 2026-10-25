@@ -15,15 +15,15 @@ An interactive, single-page Power BI report for exploring sales performance acro
 
 ## Data preparation and model
 
-The source assessment workbook was cleaned in Power Query and modeled in Power BI with a sales fact table, dimension tables, and a marked Date table. DAX measures support the KPI cards and time-based comparisons. The source Excel workbook is not included in this repository package.
+The source Dashboard workbook was cleaned in Power Query and modeled in Power BI with a sales fact table, dimension tables, and a marked Date table. DAX measures support the KPI cards and time-based comparisons. The source Excel workbook is not included in this repository package.
 
 ## Files
 
-- `Assessment.pbix` - Power BI Desktop report and data model.
+- `Dasboard.pbix` - Power BI Desktop report and data model.
 - `assets/Dashboard.png` - report screenshot.
 - `assets/shop-background.png` - subtle report canvas background image.
 
 ## Open the report
 
-Download `Assessment.pbix` and open it in Power BI Desktop. Use the month, category, region, chart metric, and chart axis controls to explore the report.
+Download `Dashboard.pbix` and open it in Power BI Desktop. Use the month, category, region, chart metric, and chart axis controls to explore the report.
 
